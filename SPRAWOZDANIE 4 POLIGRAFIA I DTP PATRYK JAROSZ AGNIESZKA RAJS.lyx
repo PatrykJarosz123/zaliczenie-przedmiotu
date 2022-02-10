@@ -1,0 +1,2679 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+WYŻSZA SZKOŁA BANKOWA W CHORZOWIE PRACA NA PRZEDMIOT POLIGRAFIA I DTP 
+\end_layout
+
+\begin_layout Author
+AUTOR: PATRYK JAROSZ, AGNIESZKA RAJS 
+\end_layout
+
+\begin_layout Date
+DATA: 09.02.2022
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+Spis treści
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+1.
+ Co to jest COVID-19 ? 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+2.
+ Przyczyna
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+3.
+ Objawy 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+4.
+ Przebieg choroby 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+4.1.
+ Symptomy i możliwe powikłania 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+4.2.
+ Diagnostyka laboratoryjna i obrazowa 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+4.3.
+ Udział przypadków ciężkich i śmiertelnych 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+5.
+ Rozprzestrzenianie 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+6.
+ Diagnozowanie 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+7.
+ Zapobieganie 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+7.1.
+ Spłaszczenie krzywej zachorowań 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+7.2.
+ Zalecenia WHO 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+7.3.
+ W Polsce 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+7.3.1.
+ Zasady kwarantanny w Polsce
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+7.3.2.
+ Zasady izolacji w Polsce 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+7.4.
+ Kontrowersje 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+8.
+ Leczenie 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+8.1.
+ Respiratory na zasadach otwartoźródłowych 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+8.2.
+ Stosowanie amantadyny 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+9.
+ Przebieg pandemii 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+10.
+ Śmiertelność 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+11.
+ Dezinformacja 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+12.
+ Zobacz też 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+13.
+ Uwagi 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+14.
+ Przypisy 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\color black
+15.
+ Linki zewnętrzne 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+1.
+ CO TO JEST COVID-19 ? 
+\end_layout
+
+\begin_layout Standard
+COVID-19 (od ang.
+ coronavirus disease 2019) – ostra choroba zakaźna układu oddechowego wywołana
+ zakażeniem wirusem SARS-CoV-2.
+ Została po raz pierwszy rozpoznana i opisana w listopadzie 2019, w środkowych
+ Chinach (miasto Wuhan, w prowincji Hubei) podczas serii zachorowań zapoczątkowu
+jących pandemię tej choroby.
+\end_layout
+
+\begin_layout Standard
+Standardową metodą diagnozowania zakażenia jest test łańcuchowej reakcji
+ polimerazy w czasie rzeczywistym z odwrotną transkryptazą (RT-qPCR, real-time
+ RT-PCR) wykonany z wymazu nosowo-gardłowego lub próbki plwociny, który
+ dostarcza wyniki w czasie od kilku godzin do dwóch dni.
+ Analiza przeciwciał z próbki surowicy krwi również może być wykorzystana
+ jako metoda diagnostyczna, pozwalająca na otrzymanie wyniku w ciągu kilku
+ dni[14].
+ Choroba może także zostać zdiagnozowana na podstawie oceny kombinacji objawów,
+ czynników ryzyka oraz wyniku badania tomografii komputerowej klatki piersiowej,
+ wykazującego cechy zapalenia płuc.
+\end_layout
+
+\begin_layout Standard
+Stanowisko WHO na podstawie danych z 3 marca 2020 mówi o śmiertelności (CFR
+ – case fatality rate, czyli liczba zgonów na zarejestrowane przypadki zachorowa
+nia) na poziomie 3,4%.
+ Obecnie śmiertelność w Polsce wynosi 2,29%.
+ 30 stycznia 2020 roku WHO ogłosiło stan zagrożenia dla zdrowia publicznego
+ o zasięgu międzynarodowym w wyniku rozprzestrzeniającej się epidemii COVID-19.
+ 11 marca 2020 WHO uznało serię zachorowań na COVID-19 występującą od listopada
+ 2019 za pandemię.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/User/Downloads/Fphar-11-00937-g001.jpg
+	lyxscale 10
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Objawy choroby
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+2.
+ Przyczyny
+\end_layout
+
+\begin_layout Standard
+Choroba COVID-19 jest powodowana przez wirus SARS-CoV-2, który jest spokrewniony
+ z wirusem SARS.
+ Wcześniej był nazywany roboczo „2019-nCoV” (z ang.
+ 2019 novel coronavirus).
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/User/Downloads/COVID-19_Outbreak_World_Map.svg.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Potwierdzone przypadki COVID-19 na świecie (stan na 25 marca 2020)
+\end_layout
+
+\begin_layout Description
+≥10000
+\end_layout
+
+\begin_layout Description
+1000–9999
+\end_layout
+
+\begin_layout Description
+100–999
+\end_layout
+
+\begin_layout Description
+10–99
+\end_layout
+
+\begin_layout Description
+1–9
+\end_layout
+
+\begin_layout Standard
+W listopadzie 2019 po raz pierwszy zdiagnozowano chorobę w chińskiej prowincji
+ Hubei, której stolicą jest Wuhan.
+ Chińscy naukowcy wskazali, że źródłem nowego koronawirusa są zwierzęta,
+ a potencjalnym nosicielem pośrednim mogą być łuskowce.
+\end_layout
+
+\begin_layout Standard
+W marcu 2020 roku naukowcy z Toronto, w tym mikrobiolog kliniczny z Uniwersytetu
+ Toronto dr Robert Kozak, wyizolowali koronawirusa SARS-CoV-2, co stanowiło
+ istotny etap w opracowaniu leku i szczepionek.
+ 
+\end_layout
+
+\begin_layout Standard
+3.
+ Objawy 
+\end_layout
+
+\begin_layout Standard
+Większość pacjentów ma łagodne objawy i dobre rokowania.
+ Do typowych początkowych objawów choroby zaliczają się gorączka, suchy
+ kaszel, zmęczenie i płytki oddech.
+ Do mniej częstych objawów należą m.in.: odkrztuszanie plwociny, ból głowy,
+ dreszcze, krwioplucie, bóle w klatce piersiowej, biegunka, nudności i wymioty,
+ ból gardła.
+ Większość przypadków choroby ma łagodny przebieg, jednak część może prowadzić
+ do zapalenia płuc lub niewydolności wielonarządowej].
+ U niektórych pacjentów występują wyłącznie objawy żołądkowo-jelitowe, co
+ może wynikać z zakażenia drogą pokarmową (np.
+ przez zanieczyszczenie fekaliami).
+\end_layout
+
+\begin_layout Standard
+Rozwijające się zakażenie wirusem może prowadzić do zapalenia płuc, zespołu
+ ostrej niewydolności oddechowej, posocznicy i wstrząsu septycznego oraz
+ do śmierci.
+ Najczęstszy okres wylęgania wirusa wynosi do 14 dni, a jego mediana wynosi
+ 5–6 dni.
+\end_layout
+
+\begin_layout Standard
+Na podstawie danych dostarczonych przez 55 924 potwierdzonych badaniami
+ laboratoryjnymi przypadków zachorowań na COVID-2019 w Chinach, WHO wyszczególni
+ło częstość występowania poniższych objawów:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="15" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+SYMPTOM
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CZĘSTOŚĆ WYSTĘPOWANIA W %
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+GORĄCZKA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+87,9
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+SUCHY KASZEL
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+67,7
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ZMĘCZENIE
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+38,1
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ODKRZTUSZANIE PLWOCINY
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+33,4
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PŁYTKI ODDECH
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+18,6
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+BÓL MIĘŚNI LUB STAWÓW
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14,8
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+BÓL GARDŁA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+13,9
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+BÓL GŁOWY
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+13,6
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+DRESZCZE
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+11,4
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+NUDNOŚCI LUB WYMIOTY
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5,0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ZATKANY NOS
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4,8
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+BIEGUNKA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3,7
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KRWIOPLUCIE
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,9
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PRZEKRWIENIE SPOJÓWEK
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,8
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+W badaniu 1099 chińskich pacjentów za pomocą tomografii komputerowej stwierdzono
+ zmiany w płucach typu mlecznej szyby w 56% przypadków.
+ Zmian w badaniu radiologicznym nie wykazano u 17,9% pacjentów z łagodną
+ postacią choroby oraz u 2,9% pacjentów z ciężką postacią choroby.
+ Limfopenia była obecna u 83,2% przyjętych pacjentów.
+ 5% pacjentów zostało przyjętych na oddziały intensywnej terapii, 2,3% wymagało
+ mechanicznego wspomagania wentylacji płuc, a 1,4% zmarło.
+ Według zespołu badawczego Bernheima obustronne i obwodowe zacienienia w
+ płucach typu mlecznej szyby są najczęstszymi objawami widocznymi na skanach
+ tomografii komputerowej.
+ Konsolidacje miąższu płucnego, liniowe zacienienia płuc oraz objaw odwróconego
+ halo to inne typowe symptomy widoczne w obrazowaniu radiologicznym.
+ Początkowo zmiany są widoczne w jednym płucu, jednak – wraz z rozwojem
+ choroby – u 88% pacjentów stają się obecne w obu płucach.
+ Dzieci zdają się przechodzić chorobę lepiej niż dorośli i występują u nich
+ łagodniejsze objawy, jednak brakuje wciąż danych, aby stwierdzić to jednoznaczn
+ie.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+4.
+ Przebieg Choroby 
+\end_layout
+
+\begin_layout Standard
+Przebieg choroby może być różnorodny.
+ Większość pacjentów (ok.
+ 81%) może przechodzić ją bezobjawowo lub mieć łagodne objawy, przypominające
+ inne choroby górnych dróg oddechowych, które ustępują po około dwóch tygodniach
+, podczas gdy część pacjentów może mieć ostrą (14%) lub krytyczną (5%) postać
+ choroby, co wymaga 3 do 6 tygodni do wyleczenia.
+ U pacjentów z postacią krytyczną, którzy zmarli, czas od wystąpienia objawów
+ do śmierci wynosił od 2 do 8 tygodni.
+ U zmarłych pacjentów wykryto oznaki niedotlenienia mózgu, bez objawów zakażenia
+ i zapalenia mózgu, czyli wynikało ono z braku dostatecznej ilości tlenu
+ we krwi z powodu niewydolności płuc.
+\end_layout
+
+\begin_layout Standard
+4.1.
+ Symptomy i możliwe powikłania 
+\end_layout
+
+\begin_layout Standard
+Symptomy oraz możliwe powikłania choroby COVID-19
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="15" columns="3">
+<features tabularvalignment="middle">
+<column alignment="decimal" decimal_point="." valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="left" valignment="top" width="0pt">
+<row>
+<cell alignment="decimal" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+RZADZIEJ
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CZĘSTO
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+W OSTRYCH PRZYPADKACH 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Odkrztuszanie plwociny
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Krwioplucie
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Katar, zatkany nos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dreszcze
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Splątanie
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ból głowy
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Gorączka 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Infekcja dolnych dróg oddechowych 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Biegunka 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Duszność
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(Obustronne) atypowe zapalenie płuc 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Nudności 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Suchy kaszel
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Problemy z oddychaniem
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Wymioty 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ból mięśni lub zmęczenie
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Utrzymujący się ból lub ucisk w klatce piersiowej 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ból pleców 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Osłabienie 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Przekrwienie spojówek
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Utrata/zaburzenia węchu 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Utrata/zaburzenia smaku 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="decimal" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Wysypka 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+4.2 Diagnostyka laboratoryjna i obrazowa
+\end_layout
+
+\begin_layout Itemize
+Zmiany w diagnostyce laboratoryjnej u pacjentów obejmują najczęściej:
+\end_layout
+
+\begin_layout Itemize
+zmniejszenie liczby limfocytów we krwi (limfopenia)
+\end_layout
+
+\begin_layout Itemize
+zmniejszenie całkowitej liczby leukocytów we krwi (leukopenia)
+\end_layout
+
+\begin_layout Itemize
+wzrost poziomu markerów zapalnych (CRP, OB, fibrynogen)
+\end_layout
+
+\begin_layout Itemize
+małopłytkowość
+\end_layout
+
+\begin_layout Itemize
+przedłużenie czasu częściowej tromboplastyny po aktywacji (APTT)
+\end_layout
+
+\begin_layout Standard
+Zmiany w diagnostyce obrazowej u pacjentów obejmują najczęściej:
+\end_layout
+
+\begin_layout Itemize
+obustronne i obwodowe zacienienia w płucach typu „mlecznej szyby” 
+\end_layout
+
+\begin_layout Itemize
+niejednolite konsolidacje miąższu płucnego 
+\end_layout
+
+\begin_layout Itemize
+liniowe zacienienia w płucach 
+\end_layout
+
+\begin_layout Itemize
+objawy odwróconego halo 
+\end_layout
+
+\begin_layout Itemize
+predylekcję do występowania zmian w tylnych segmentach lub płatach dolnych
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\begin_inset Separator parbreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+W tomografii komputerowej płuc 79,3% (115/145) pacjentów wykazywało obustronne
+ zapalenie płuc (przykład: zdjęcie po lewej), podczas gdy tylko 18,6% (27/145)
+ pacjentów miało jednostronne zapalenie płuc (przykład: zdjęcie po prawej).
+ 61,4% pacjentów posiadało zmiany typu mlecznej szyby.
+ Na podstawie 145 przypadków z Taizhou w Chinach
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/User/Downloads/400px-CT_płuc_1.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Wielokrotne zacienienia o nieregularnym rozkładzie oraz typu matowej szyby
+ zauważalne w obydwu płucach.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/User/Downloads/400px-CT_płuc_2.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Zacienienia typu matowej szyby oraz zagęszczenia nieregularne i nieregularne
+ o zwiększonym zagęszczeniu zauważalne głównie w dolnym i środkowym płacie
+ lewego płuca.
+ W górnym płacie lewego płuca widoczne zacienienia typu matowej szyby i
+ nieregularne krawędzie.
+ W dolnym płacie lewego płuca kilka dobrze wysyconych cieni włóknistych.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+4.3 Udział przypadków ciężkich i śmiertelnych 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+Wskaźnik śmiertelności w poszczególnych grupach wiekowych (do liczby chorych
+ w danej grupie)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="10">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Grupa wiekowa
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0-9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10-19
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20-29
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+30-39
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+40-49
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+50-59
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+60-69
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+70-79
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+80+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Chińska Republika Ludowa
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,2%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,2%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,2%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,4%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1,3%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3,6%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14,8%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Włochy
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,3%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,9%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3,1%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10,5%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+35,5%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+24,8%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Korea Południowa
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,11%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,08%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0,41%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1,58%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6,34%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+11,62%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+5 Rozprzestrzenianie 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+Zakażenie rozprzestrzenia się pomiędzy ludźmi głównie drogą kropelkową,
+ zazwyczaj w wyniku kaszlu lub kichania.
+ Okres wylęgania się choroby wynosi najczęściej od 2 do 14 dni, ze średnią
+ długością 5 dni.
+ Osoby chore mogą zarażać na 24–48 godzin przed wystąpieniem objawów choroby.
+ Podstawowa liczba odtwarzania dla COVID-19 wynosi 2-2,5.
+\end_layout
+
+\begin_layout Standard
+Rozważa się również możliwość zarażenia drogą pokarmową.
+ U niektórych pacjentów występują bowiem wyłącznie objawy żołądkowo-jelitowe,
+ co może wynikać z zanieczyszczenia np.
+ fekaliami.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+6 Diagnozowanie
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+Światowa Organizacja Zdrowia (WHO) opublikowała kilka procedur diagnostycznych
+ COVID-19.
+ Standardową metodą jest test reakcji łańcuchowej polimerazy z odwrotną
+ transkrypcją (RT-PCR), który może zostać wykonany na podstawie wymazu nosowo-ga
+rdłowego lub próbki plwociny.
+ Wyniki testu są zazwyczaj dostępne po kilku godzinach do dwóch dni.
+ Możliwe jest wykonanie badania diagnostycznego z próbki krwi, jednak wymaga
+ ono pobrania dwóch próbek w odstępie dwóch tygodni.
+ Genetyczna sekwencja wirusa została po raz pierwszy opublikowana w internecie,
+ po tym jak został on wyizolowany przez chińskich naukowców, co pozwoliło
+ laboratoriom w innych krajach przygotować własne testy PCR.
+\end_layout
+
+\begin_layout Standard
+Możliwe jest także diagnozowanie infekcji SARS-CoV-2 przy użyciu badania
+ przeciwciał w surowicy krwi, jednak ta metoda daje fałszywe pozytywne wyniki,
+ nawet jeśli wirus nie jest już obecny w organizmie.
+ Pierwszy test wykorzystujący przeciwciała został zademonstrowany przez
+ Instytut Wirologii w Wuhan.
+ Test przeciwciał opracowany przez Duke–NUS Medical School w Singapurze
+ pozwala na otrzymanie wyników w kilka dni.
+\end_layout
+
+\begin_layout Standard
+Szpital Uniwersytecki Zhongnan w Wuhan opublikował metodę identyfikacji
+ zakażonych wirusem opartą na kombinacji objawów klinicznych oraz ryzyka
+ epidemiologicznego.
+ Pacjent musi posiadać przynajmniej dwa z poniższych objawów: gorączka,
+ cechy zapalenia płuc w obrazowaniu radiologicznym, normalna lub obniżona
+ ilość leukocytów lub obniżona ilość limfocytów oraz historię podróży do
+ Wuhan lub kontaktu z innymi zainfekowanymi pacjentami.
+ Analiza przeprowadzona przez zespół ze szpitala Tongji w Wuhan wykazała,
+ że skan tomograficzny klatki piersiowej cechuje się większą czułością (98%)
+ w porównaniu do reakcji łańcuchowej polimerazy (71%).
+ Badanie PCR może dostarczać fałszywe negatywne wyniki w wyniku problemów
+ z zestawem testowym lub próbką.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+7 Zapobieganie 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+Do podstawowych metod zapobiegania zakażeniom zaliczają się częste i dokładne
+ mycie dłoni, utrzymywanie dystansu fizycznego od osób z objawami grypopodobnymi
+ oraz unikanie dotykania twarzy nieumytymi dłońmi.
+\end_layout
+
+\begin_layout Standard
+Zaleca się zakrywanie ust oraz nosa maseczką.
+ Osobom podejrzewającym u siebie zakażenie wirusem SARS-CoV-2 zaleca się
+ zasięgnięcie porady medycznej poprzez kontakt telefoniczny, a nie osobistą
+ wizytę u lekarza.
+\end_layout
+
+\begin_layout Standard
+Dystans fizyczny od innych osób powinien wynosić według WHO co najmniej
+ 1 metr na zewnątrz, a w pomieszczeniach im więcej tym lepiej.
+\end_layout
+
+\begin_layout Standard
+Badacze i WHO zwracają też uwagę na potrzebę odpowiedniego wietrzenia pomieszcze
+ń oraz ograniczenie czasu spędzanego w pomieszczeniach, gdyż głównymi czynnikami
+ ryzyka są zamknięte pomieszczenia, zatłoczone miejsca i zbyt bliski kontakt
+ (3 x Z, patrz infografika.
+ W tego powodu zalecają organizowanie wszelkich uroczystości rodzinnych
+ itp.
+ na świeżym powietrzu.
+\end_layout
+
+\begin_layout Standard
+Laureat nagrody Nobla, Louis Joseph Ignarro, tłumaczy, że wdychanie powietrza
+ przez nos powoduje lepsze natlenienie krwi.
+ Na dodatek, dzięki wytwarzanemu w nosie tlenkowi azotu(II) (NO), pomaga
+ zwalczać zakażenie koronawirusem, blokując jego replikację w płucach
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+7.1 Spłaszczenie krzywej zachorowań
+\end_layout
+
+\begin_layout Standard
+Zmniejszenie liczby jednoczesnych zachorowań, wskutek zmniejszenia liczby
+ kontaktów z chorymi m.in.
+ poprzez kwarantannę, pozwala służbom medycznym na optymalizację wykorzystania
+ sprzętu, personelu i innych zasobów tak, by skuteczniej udzielać pomocy
+ potrzebującym.
+ Gdy liczba chorych jest większa niż wydolność systemu opieki medycznej,
+ niektóre osoby nie będą mogły zostać poddane leczeniu w pełnym zakresie.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/User/Downloads/1200px-COVID-19_Health_care_limit-300x140.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+7.2 Zalecenia WHO 
+\end_layout
+
+\begin_layout Standard
+Mycie dłoni powinno trwać co najmniej 30 sekund i powinno mieć miejsce po
+ każdej wizycie w toalecie, przed jedzeniem, kiedy dłonie są widocznie zabrudzon
+e oraz po kichnięciu, kaszlu, wysiąkaniu nosa.
+ Gdy woda i mydło są niedostępne, zaleca się dezynfekcję dłoni środkiem
+ dezynfekującym zawierającym nie mniej niż 60% alkoholu.
+ Zaleca się także częste mycie i dezynfekcję często dotykanych powierzchni,
+ takich jak klamki, włączniki światła, stoły, blaty, drzwiczki itp.
+ W celu niedopuszczenia do transferu wirusa z powierzchni na błony śluzowe,
+ poprzez które może wniknąć do organizmu, WHO zaleca unikanie dotykania
+ oczu, nosa oraz ust przed dokładnym umyciem dłoni.
+ W celu niedopuszczenia do inhalacji wirusa w postaci aerozolu, zaleca się
+ zachowanie dystansu przynajmniej jednego metra od osób kaszlących lub kichający
+ch.
+ Należy zwrócić uwagę osobom, które kichają lub kaszlą, aby przestrzegały
+ zasad higieny osobistej, polegających na zakrywaniu ust i nosa.
+ WHO zaleca także osobom, które mają objawy grypopodobne, aby pozostały
+ w domu do ich ustąpienia, nawet jeśli objawy są mało intensywne, jak ból
+ głowy i katar.
+ Ograniczanie kontaktu z innymi oraz wizyt w placówkach medycznych, pozwala
+ na zmniejszenie ryzyka zakażenia siebie oraz innych.
+ Organizacja rekomenduje noszenie maseczek w miejscach, gdzie utrzymanie
+ dystansu społecznego jest trudne np.
+ transport publiczny, sklepy, kościoły i inne zatłoczone miejsca.
+\end_layout
+
+\begin_layout Standard
+Ponieważ rozpowszechniło się wiele mitów na temat COVID-19, WHO wyjaśnia,
+ że np.
+ podczas aktywności fizycznej na świeżym powietrzu nie należy zasłaniać
+ twarzy (aby nie utrudniać oddychania), tylko starać się zachować dystans
+ co najmniej 1 metra.
+\end_layout
+
+\begin_layout Standard
+WHO opublikowało także serię szczegółowych zaleceń dla krajów, w których
+ istnieje ryzyko wybuchu pandemii.
+ Rekomenduje ona opracowanie planu personalnego na wypadek lokalnego zwiększenia
+ liczby zachorowań.
+ Plan powinien obejmować m.in.
+ listę kontaktów w sytuacjach awaryjnych; zidentyfikowanie osób szczególnie
+ zagrożonych, np.
+ starszych, w najbliższym sąsiedztwie i organizację wsparcia; przygotowanie
+ osobnego pokoju i łazienki dla osoby chorej; plan postępowania na wypadek
+ zamknięcia szkół oraz przedszkoli; organizację pracy zdalnej, jeśli możliwa.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+7.3 W Polsce
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+W Polsce została opublikowana seria zaleceń dla obywateli.
+ Nie zalecano podróżowania do krajów, w których występowała duża liczba
+ przypadków zakażenia wirusem SARS-CoV-2.
+ Informacje na temat bezpieczeństwa podróży do poszczególnych krajów były
+ publikowane na stronie ministerstwa spraw zagranicznych.
+ Osoby, które w przeciągu minionych dwóch tygodni podróżowały za granicę
+ lub z innych powodów podejrzewają możliwość infekcji i występują u nich
+ objawy, takie jak: gorączka, kaszel, duszność oraz problemy z oddychaniem,
+ powinny niezwłocznie skontaktować się telefonicznie ze stacją sanitarno-epidemi
+ologiczną lub udać się bezpośrednio do oddziału zakaźnego lub oddziału obserwacy
+jno-zakaźnego.
+ Nie należy iść do przychodni medycznej ani SOR.
+ Została uruchomiona infolinia Narodowego Funduszu Zdrowia – 800 190 590
+ dotycząca postępowania w sytuacji podejrzenia zakażenia nowym koronawirusem.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+7.3.1 Zasady kwarantanny w Polsce
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Obowiązkowi kwarantanny, czyli odosobnienia osoby zdrowej podlegają osoby
+ zdrowe narażone na zakażenie poprzez:
+\end_layout
+
+\begin_layout Standard
+styczność z osobą z dodatnim wynikiem badania RT-PCR SARS-CoV-2 (np.
+ chorym pozostającym w izolacji domowej) narażenie na źródło biologiczne
+ (ognisko zakażenia, np.
+ internat, zakład pracy) przekroczenie granicy zewnętrznej Unii Europejskiej
+\end_layout
+
+\begin_layout Standard
+Ponadto obowiązkowi kwarantanny podlegają osoby przyjmowane w trybie planowym
+ do szpitala, skierowane na badanie RT-PCR SARS-CoV-2 do czasu uzyskania
+ wyniku ujemnego.
+\end_layout
+
+\begin_layout Standard
+Kwarantanne nie podlegają osoby współzamieszkujące z osobą poddaną kwarantannie
+ ani osoba będąca ozdrowieńcem, która współzamieszkuje z osobą chorą na
+ COVID-19.
+\end_layout
+
+\begin_layout Standard
+Kwarantanna nakładana jest przez inspekcję sanitarną w ramach nadzoru epidemiolo
+gicznego.
+ Powiatowy inspektor sanitarny, w uzasadnionych przypadkach, decyduje o
+ skróceniu albo zwolnieniu z obowiązku odbycia obowiązkowej kwarantanny.
+ Od 2 września 2020 r.
+ okres kwarantanny został skrócony z 14 dni do 10 dni.
+ Okres kwarantanny liczy się od dnia następującego po ostatnim dniu odpowiednio
+ narażenia albo styczności na SARS-CoV-2 i ulega automatycznemu zakończeniu
+ po 10 dniach u osób, u których nie wystąpiły objawy choroby.
+ Okres kwarantanny obejmującej podróżujących liczy się od dnia następującego
+ po dniu powrotu spoza granicy zewnętrznej Unii Europejskiej.
+ Kwarantannę odbywa się w swoim aktualnym miejscu zamieszkania lub w izolatorium
+, do którego zostaje się skierowanym przez służby sanitarno-epidemiologiczne.
+ Do miejsca odbywania kwarantanny należy przyjechać wyłącznie własnym środkiem
+ transportu.
+ W czasie kwarantanny nie wolno zmieniać miejsca pobytu.
+ Nieprzestrzeganie zasad kwarantanny jest zagrożone grzywną w wysokości
+ do 30 tys.
+ złotych oraz zgodnie z art.
+ 165 kodeksu karnego, z powodu sprowadzenia niebezpieczeństwa dla życia
+ lub zdrowia wielu osób poprzez spowodowanie zagrożenia epidemiologicznego
+ lub szerzenie się choroby zakaźnej, jest zagrożone karą do ośmiu lat pozbawieni
+a wolności.
+\end_layout
+
+\begin_layout Standard
+Osoby objęte kwarantanną w warunkach domowych mają obowiązek zainstalować
+ aplikację Kwarantanna Domowa ze sklepu App Store lub Google Play lub wypełnić
+ elektroniczne oświadczenie o braku możliwości zainstalowania aplikacji
+ na stronie ePUAP, są zobowiązane do pozostawania w domu i nie zmienianie
+ miejsca pobytu, nie przyjmowanie osób spoza gospodarstwa domowego, utrzymywania
+ dystansu społecznego, współpracy ze służbami państwowymi (Sanepid, Policja,
+ Żandarmeria, WOT), dbania o higienę oraz codziennej samokontroli temperatury
+ ciała i samoobserwacji niepokojących objawów.
+ Jeśli podczas kwarantanny wystąpią objawy wskazujące na COVID-19, osoba
+ objęta kwarantanną powinna skontaktować się ze swoim lekarzem Podstawowej
+ Opieki Zdrowotnej, który może zlecić wykonanie testu molekularnego RT-PCR
+ w przypadku podejrzenia choroby wywołanej wirusem SARS-CoV-2 (COVID-19).
+ Zlecenie testu przez lekarza POZ wykonuje się na podstawie aktualnej wiedzy
+ medycznej.
+ W przypadku osoby, która nie jest w stanie samodzielnie przemieszczać się
+ lub którego stan zdrowia to uzasadnia, lekarz w sytuacji zlecenia wykonania
+ testu w kierunku wirusa SARS-CoV-2 zleca pobranie materiału do wykonania
+ testu przez zespół karetki wymazowej, a w przypadku pozostałych osób lekarz
+ POZ lub państwowy inspektorat sanitarny wskazuje miejsce wykonania wymazu
+ w mobilnym punkcie pobrań wymazów, do którego osoba podejrzewana o zakażenie
+ udaje się własnym środkiem transportu i z zachowaniem dystansu społecznego.
+ W przypadku nierozstrzygającym/niediagnostycznym wyniku testu należy go
+ powtórzyć po 24–48 godzinach, po wcześniejszym skierowaniu na test przez
+ lekarza POZ.
+\end_layout
+
+\begin_layout Standard
+Od 24 października 2020 r.
+ osoby, które zostaną objęte kwarantanną automatycznie uzyskują świadczenie
+ pieniężne za czas choroby i zasiłek chorobowy lub zasiłek opiekuńczy.
+ Zakład Ubezpieczeń Społecznych uzyskuje informację o trwającej kwarantannie
+ za pośrednictwem systemu EWP i przekazuje ją pracodawcom i przedsiębiorcom
+ na profil płatnika na PUE ZUS.
+ Nie jest wymagane uzyskanie od lekarza rodzinnego zwolnienia lekarskiego.
+\end_layout
+
+\begin_layout Standard
+Informację o okresie trwającej kwarantanny można uzyskać za pośrednictwem
+ Internetowego Konta Pacjenta.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+7.3.2 Zasady izolacji w Polsce
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Obowiązkowej izolacji lub izolacji w warunkach domowych podlegają osoby,
+ u których stwierdzono zakażenie wywołane wirusem SARS-CoV-2 lub zachorowanie
+ na chorobę wywołaną wirusem SARS-CoV-2 (COVID-19) lub podejrzenie zakażenia
+ lub zachorowania, wobec których lekarz lub felczer nie zastosował obowiązkowej
+ hospitalizacji, ale skierował je do leczenia lub diagnostyki laboratoryjnej
+ w kierunku wirusa SARS-CoV-2 do izolatorium lub do izolacji w warunkach
+ domowych.
+ Pacjent, u którego COVID-19 przebiega bezobjawowo, łagodnie lub umiarkowanie
+ (np.
+ kaszel, ból gardła, stan podgorączkowy, osłabienie) nie wymaga pobytu w
+ szpitalu.
+ Lekarz lub felczer kierujący pacjenta na izolację bezzwłocznie przekazuje
+ informację państwowemu powiatowemu inspektorowi sanitarnemu właściwemu
+ dla miejsca pobytu pacjenta, poucza osobę chorą lub osobę sprawującą opiekę
+ nad osobą chorą, bezradną lub małoletnią albo opiekuna faktycznego o obowiązku
+ izolacji lub izolacji w warunkach domowych i zleca transport sanitarny
+ do miejsca odbywania izolacji.
+ W izolatorium w przypadku rozwoju objawów SARS-CoV-2 u osoby podejrzewanej
+ o zakażenie lub zachorowanie możliwe jest wykonanie wymazu.
+ W przypadku osób podejrzewanych o zakażenie SARS-CoV-2 skierowanych do
+ izolacji domowej możliwe jest wysłanie karetki z zespołem wymazowym.
+\end_layout
+
+\begin_layout Standard
+Obowiązki w czasie izolacji domowej są podobne jak w przypadku kwarantanny,
+ ponadto wskazane jest leczenie objawowe zgodne z zaleceniami lekarskimi.
+ W czasie siódmego dnia izolacji lub izolacji domowej chory otrzymuje wiadomość
+ tekstową SMS o konieczności kontaktu z lekarzem POZ, który między 8 a 10
+ dniem izolacji przeprowadza teleporadę lub poradę w warunkach domowych.
+ W przypadku decyzji lekarza POZ o nie przedłużaniu izolacji, izolacja kończy
+ się po 10 dniu izolacji u pacjenta bezobjawowego.
+ Lekarz POZ może też podjąć decyzję o przedłużeniu izolacji do 20 dni u
+ osoby bezobjawowej o obniżonej odporności spowodowanej chorobami przewlekłymi
+ (np.
+ chorobami autoimmunologicznymi, cukrzycą, astmą lub przewlekłą obturacyjną
+ chorobą płuc, przewlekłą niewydolnością nerek, reumatoidalnym zapaleniem
+ stawów itp.).
+\end_layout
+
+\begin_layout Standard
+O konieczności przedłużenia izolacji decydują objawy chorobowe, tj.
+ gorączka oraz objawy infekcji górnych dróg oddechowych.
+ W przypadku wystąpienia ich u pacjenta izolowanego dotychczas bezobjawowego
+ izolacja powinna zakończyć się dopiero po 3 dniach bez objawów gorączki
+ lub objawów infekcji górnych dróg oddechowych, ale nie wcześniej niż po
+ 13 dniach od początku objawów.
+ Zatem w przypadku wystąpienia wspomnianych objawów w 6 dniu od początku
+ izolacji całkowity okres izolacji powinien być nie krótszy niż 19 dni i
+ powinien zakończyć się dopiero po trzeciej dobie od ustąpienia w.w.
+ objawów choroby.
+ Ostateczną decyzję o nieprzedłużaniu izolacji podejmuje lekarz POZ w ostatnim
+ dniu przedłużonego okresu izolacji za pośrednictwem teleporady lub porady
+ domowej.
+ W przypadku zakwalifikowania pacjenta do hospitalizacji lekarz POZ zleca
+ transport sanitarny do szpitala, gdzie pacjent rozpoczyna leczenie w warunkach
+ izolacji.
+ Koniec hospitalizacji nie jest uzależniony od ujemnego wyniku testu RT-PCR
+ SARS-CoV-2, lecz przede wszystkim od stanu klinicznego pacjenta.
+ Pacjent w warunkach izolacji szpitalnej jest pozbawiony prawa do wypisu
+ na własne żądanie.
+ W przypadku samowolnego opuszczenia szpitala przez osobę podlegającą obowiązkow
+i hospitalizacji ordynator oddziału, lekarz kierujący oddziałem albo osoba
+ upoważniona odpowiednio przez tego ordynatora albo lekarza informuje o
+ tym niezwłocznie telefonicznie państwowego powiatowego inspektora sanitarnego
+ właściwego ze względu na miejsce zamieszkania chorego na numer telefonu
+ alarmowego, który jest opublikowany na stronie podmiotowej Biuletynu Informacji
+ Publicznej właściwej stacji sanitarno-epidemiologicznej.
+\end_layout
+
+\begin_layout Standard
+Nieprzestrzeganie zasad izolacji jest zagrożone grzywną w wysokości do 30
+ tys.
+ złotych oraz zgodnie z art.
+ 161 kodeksu karnego, z powodu narażenia na zarażenie wielu osób przez osobę,
+ która wie, że jest zarażona, jest zagrożone karą dziesięciu lat pozbawienia
+ wolności.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+7.4 Kontrowersje 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Stosowane powszechnie metody walki z pandemią skupiają się przede wszystkim
+ na krótkotrwałych efektach i często przynoszą poważne długoterminowe szkody
+ (zarówno gospodarcze, jak i zdrowotne oraz środowiskowe), więc konieczne
+ jest wypracowanie bardziej perspektywicznych strategii.
+ Przeciwko strategii lockdownu protestowali naukowcy i lekarze z wielu krajów
+ (np.
+ Deklaracja Great Barrington, postulująca „skupioną ochronę” szczególnie
+ zagrożonych grup oraz rachunek zysków i strat społecznych), w tym z Polski
+ (np.
+ List Lekarzy).
+ Ich postulaty wywołały jednak zdecydowaną krytykę ze strony innych lekarzy,
+ broniących zasadności lockdownu (np.
+ w czasopiśmie medycznym „The Lancet”).
+\end_layout
+
+\begin_layout Standard
+Proponowano także rozwiązania kompromisowe.
+ Dla przykładu, „Three Cs Strategy”, która sugeruje położenie nacisku na
+ zapobieganie zakażeniom i ciężkim objawom infekcji głównie poprzez wietrzenie
+ pomieszczeń, promowanie aktywności fizycznej na świeżym powietrzu i ogólnie
+ zdrowego trybu życia, walkę z nałogami, gorączkofobią, a także zwraca uwagę
+ na nadmiar biurokratycznych procedur obciążających m.in.
+ służbę zdrowia, pracowników socjalnych, nauczycieli i naukowców[109].
+ (Strategia ta stała się inspiracją do opracowania polskiego programu „Dla
+ zdrowia teraz i w przyszłości”.) Z kolei artykuł przeglądowy przedstawiający
+ szeroki zakres nowych i tradycyjnych metod zwalczania COVID-19, porównuje
+ zalety i wady antybiotyków, leków przeciwwirusowych, szczepionek, kuracji
+ immunologicznych, stosowania bakteriofagów, odpowiedniego odżywiania (probiotyk
+i i prebiotyki), uprawiania sportu, wykorzystywania leczniczych skutków
+ muzyki, jogi, Tai Chi, tańca, ruchu na świeżym powietrzu, wdychania powietrza
+ przez nos itd.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Zwraca się również uwagę na potrzebę badań nad rozwiązaniem wielu palących
+ problemów związanych z pandemią, m.in.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+podczas kwarantanny domowej rodzin, ze względu na współwystępowanie trzech
+ głównych czynników ryzyka COVID-19 (3 x Z: zatłoczone miejsca, zamknięte
+ pomieszczenia i zbyt bliski kontakt, patrz infografika), ryzyko zarażenia
+ domowników jest bardzo wysokie, więc wskazane byłoby zezwolenie rodzinom
+ na kwarantannie na wspólną aktywność fizyczną na świeżym powietrzu (spacery,
+ ogrodnictwo itp.), z zachowaniem zasad bezpieczeństwa
+\end_layout
+
+\begin_layout Itemize
+maski na twarz oraz dezynfekcja lub częste mycie rąk są poważnymi źródłami
+ zanieczyszczenia środowiska i mogą prowadzić np.
+ do alergii, podrażnień skóry i zaburzeń psychicznych
+\end_layout
+
+\begin_layout Itemize
+w wielu krajach zasoby wody pitnej są bardzo ograniczone i narażone na zanieczys
+zczenie odchodami, patogenami i chemikaliami
+\end_layout
+
+\begin_layout Itemize
+lockdown zwiększa ryzyko depresji i samobójstw, a także zagrożenia zdrowia
+ przez zanieczyszczenie powietrza w pomieszczeniach (wirusami, jeśli ktoś
+ jest zarażony, ale także CO2, chlorem, ksenoestrogenami z pleśni i innymi
+ substancjami)
+\end_layout
+
+\begin_layout Itemize
+chorzy na COVID-19 wydychają duże ilości wirusów, CO2 i wielu szkodliwych
+ związków, podczas gdy wiele rodzajów masek tlenowych oraz zasłanianie twarzy
+ tekstylną maską ułatwia mieszanie wydychanego i wdychanego powietrza
+\end_layout
+
+\begin_layout Itemize
+respiratory doprowadzają powietrze przez usta prosto do tchawicy, często
+ prowadząc do zakażeń, zaś podczas oddychania przez nos, powietrze byłoby
+ naturalnie filtrowane, a tlenek azotu (NO) wytwarzany w zatokach blokuje
+ replikację wirusów, rozszerza drogi oddechowe i naczynia krwionośne w płucach
+ oraz stymuluje produkcję surfaktantu
+\end_layout
+
+\begin_layout Itemize
+zużyte strzykawki stały się poważnym zagrożeniem dla zdrowia publicznego,
+ więc szczepionki doustne mogłyby być bezpieczniejszym rozwiązaniem
+\end_layout
+
+\begin_layout Itemize
+zimą stężenie CO2 w miastach dramatycznie wzrasta, głównie z powodu ograniczonej
+ fotosyntezy i zanieczyszczenia powietrza spowodowanego ogrzewaniem, więc
+ być może zwiększony udział terenów zielonych pozwoliłby znacząco zmniejszyć
+ śmiertelność chorych w gęsto zaludnionych obszarach
+\end_layout
+
+\begin_layout Itemize
+w okresie wegetacyjnym częste koszenie trawników również prowadzi do zanieczyszc
+zenia środowiska i ograniczenia produkcji tlenu; także lasy i siedliska
+ podmokłe odgrywają ważną rolę w ograniczaniu zanieczyszczenia środowiska,
+ zaś na wielu obszarach ulegają fragmentacji, a nawet całkowitemu zniszczeniu
+\end_layout
+
+\begin_layout Itemize
+pospolite zioła lecznicze, ze względu na naturalną zmienność ich składu
+ chemicznego, są z zasady wykluczone z medycyny opartej na faktach, choć
+ badania sugerują ich wysoki potencjał przeciwwirusowy (np.
+ pokrzywy zwyczajnej)
+\end_layout
+
+\begin_layout Itemize
+przytulanie jest ważne dla rozwoju dzieci i ogólnie dla dobrostanu, lecz
+ niektórzy eksperci twierdzą, że jest poważnym zagrożeniem podczas pandemii,
+ choć na świeżym powietrzu (bez pocałunków) wydaje się bezpieczne
+\end_layout
+
+\begin_layout Standard
+8 Leczenie 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+Obecnie nie istnieje zatwierdzona celowana metoda leczenia choroby.
+ Stosuje się leczenie objawowe, podtrzymujące oraz eksperymentalne.
+ Współczynnik śmiertelności jest szacowany na 1% do 3%.
+ Trwają obecnie badania i dyskusja nad ryzykiem reinfekcji.
+ 
+\end_layout
+
+\begin_layout Standard
+Leczenie objawowe zwykle ma na celu opanowanie objawów i wsparcie funkcjonowania
+ organizmu.
+\end_layout
+
+\begin_layout Standard
+Prowadzone jest wiele niezależnych badań nad leczeniem COVID-19 z wykorzystaniem
+ istniejących leków przeciwwirusowych.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+8.1 Respiratory na zasadach otwartoźródłowych 
+\end_layout
+
+\begin_layout Standard
+Jednym z problemów jest brak respiratorów, zwłaszcza w krajach, gdzie szacuje
+ się dużą liczbę osób do wyleczenia.
+ Rezerwa strategiczna Stanów Zjednoczonych wynosi zaledwie 10 tysięcy respirator
+ów.
+ Aby zwiększyć dostępność respiratorów tworzone są projekty oparte na zasadach
+ otwartoźródłowych (Open Hardware, podobne zasady jak przy wielu systemach
+ w rodzaju Linuxa).
+ Wolontariusze z organizacji Public Invention koordynują ciągłą ocenę tych
+ projektów w kategoriach takich jak: otwartość, aktywność społeczności,
+ spełnianie określonych wymagań funkcjonalnych, poziom niezawodności, gotowość
+ do wprowadzenia do produkcji.
+ Według stanu na 6 kwietnia 2020 na liście umieszczonych jest 70 projektów,
+ w tym co najmniej jeden, VentilAid, z Polski.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+8.2 Stosowanie amantadyny 
+\end_layout
+
+\begin_layout Standard
+Jednym z potencjalnych sposobów na walkę z COVID-19 jest stosowanie amantadyny.
+ Badania nad wykorzystaniem tej substancji w leczeniu COVID-19 zostały rozpoczęt
+e w styczniu 2021 przez międzynarodowe konsorcjum złożone z 12 placówek
+ naukowych.
+ Skuteczność tego leku nie została jeszcze zweryfikowana niezależnymi badaniami
+ naukowymi.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+9 Przebieg pandemii 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+W 2019 i 2020 zakażenia odnotowano początkowo w Chinach, później choroba
+ rozprzestrzeniła się na wszystkie kontynenty (najpóźniej, na Antarktydę
+ dotarła w grudniu 2020).
+\end_layout
+
+\begin_layout Standard
+Początkowo Światowa Organizacja Zdrowia postanowiła nie uznawać epidemii
+ za stan zagrożenia zdrowia publicznego o zasięgu międzynarodowym.
+ WHO uprzednio ostrzegła, że możliwy jest szerszy wybuch choroby.
+ Ostatecznie 11 lutego 2020 w Genewie nazwę choroby ogłosił dyrektor tej
+ organizacji Tedros Adhanom Ghebreyesus.
+ Wskazał, że oficjalną nazwą choroby wywoływanej przez nowego wirusa[b]
+ należącego do rodziny koronawirusów, będzie COVID-19 (ang.
+ Corona-Virus-Disease-2019 – choroba koronawirusa roku 2019).
+\end_layout
+
+\begin_layout Standard
+4 marca 2020 potwierdzono w Polsce pierwszy przypadek osoby zakażonej wirusem
+ SARS-CoV-2
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+10 Śmiertelność 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+Do 16 marca 2020 roku przypadki śmiertelne zarejestrowano w ok.
+ 50 państwach i terytoriach.
+ Najwięcej zgonów odnotowano w Chinach, we Włoszech, w Iranie, w Hiszpanii,
+ we Francji, w Korei Południowej i w USA.
+ Wskazuje się, że wirus rozprzestrzenia się szybciej niż SARS, jednak umiera
+ mniejszy odsetek chorych.
+ Współczynnik śmiertelności SARS wynosi 1 na 10, czyli ok.
+ 10 proc.
+ W przypadku nowego wirusa, SARS-CoV-2 mówi się o współczynniku ok.
+ 3 proc.
+ Liczba ofiar śmiertelnych w Chinach przekroczyła poziom epidemii SARS sprzed
+ 17 lat, która trwała ponad pół roku.
+\end_layout
+
+\begin_layout Standard
+Istnieje wiele różnych danych dotyczących szacunkowej śmiertelności COVID-19.
+ Wstępna wartość współczynnika śmiertelności na poziomie 3% została opublikowana
+ 24 stycznia 2020 roku na łamach czasopisma Lancet.
+ Opublikowane 24 stycznia badanie opisujące cechy kliniczne pacjentów hospitaliz
+owanych na COVID-19 opierało się na danych dostarczonych przez 41 przypadków
+ zachorowań na nowe zapalenie płuc, z których 32% wymagało hospitalizacji
+ na oddziałach intensywnej terapii i 15% zakończyło się zgonem.
+ Opublikowaną 29 stycznia przez WHO szacunkową wartością indeksu śmiertelności
+ było 2%, co jak podkreślono, było liczbą prowizoryczną, która może ulec
+ zmianie.
+ Dyrektor Generalny WHO stwierdził 3 marca, że uaktualniony uśredniony współczyn
+nik śmiertelności SARS-CoV-2 dla całego świata wynosi 3,4%.
+ Chińska Narodowa Komisja Zdrowia zapytana podczas konferencji prasowej
+ 4 lutego ujawniła, że ogólny współczynnik śmiertelności dla Chin wynosił
+ 2,1%, jednak różnił się znacznie w zależności od regionu kraju.
+ W tamtym okresie 97% procent zgonów miało miejsce w prowincji Hubei i współczyn
+nik śmiertelności dla miasta Wuhan wynosił 4,9%, prowincji Hubei 3,1%, a
+ pozostałych prowincji 0,16%.
+ Wyniki badań przeprowadzonych w Wuhan opublikowane 7 lutego wykazały, że
+ z 138 hospitalizowanych pacjentów 26% zostało przyjętych na oddziały intensywne
+j terapii, 4,3% zmarło, a 61,6% chorych było nadal hospitalizowanych w momencie
+ publikacji artykułu.
+ Raport misji Chiny-WHO opublikowany 28 lutego przez WHO opisuje 55 924
+ przypadki potwierdzonych zachorowań na COVID-19 w Chinach, z czego 2114
+ (3,8%) zakończyło się śmiercią chorego.
+ W Wuhan wartość indeksu śmiertelności wynosiła 5,8%, a w innych regionach
+ kraju 0,7%.
+ Odsetek przypadków śmiertelnych został zredukowany z 17,3% zachorowań w
+ okresie 1–10 stycznia do 0,7% zachorowań po 1 lutego oraz nastąpiła poprawa
+ jakości opieki nad chorymi.
+\end_layout
+
+\begin_layout Standard
+Zdaniem niektórych badaczy, obliczanie współczynnika śmiertelności podczas
+ trwającej epidemii nie powinno być prostą proporcją zachorowań do przypadków
+ śmiertelnych, ponieważ może to prowadzić do zaniżania jego realnej wartości.
+ Dla przykładu podczas epidemii wirusa SARS Światowa Organizacja Zdrowia
+ opublikowała wartość indeksu śmiertelności na poziomie około 4%, podczas
+ gdy jego końcowa wartość wynosi 9,6%.
+\end_layout
+
+\begin_layout Standard
+Inną metodą szacunkowego określania śmiertelności COVID-19 jest analizowanie
+ odchyleń od przeciętnej liczby zgonów w analogicznych okresach w latach
+ poprzednich.
+ Różnice w definiowaniu zgonu związanego z infekcją wirusem SARS-CoV-2 oraz
+ jego diagnostyka różnią się znacznie pomiędzy krajami, co utrudnia porównywanie
+ dostarczanych przez nie danych.
+ Ogólna liczba zgonów w porównywalnym okresie i obszarze nie jest obciążona
+ tym kontekstem.
+ Odchylenie od wieloletniej średniej śmiertelności podczas pierwszej fali
+ pandemii COVID-19 różniło się znacznie pomiędzy krajami i na przykład w
+ Hiszpanii wyniosło +38%, Anglii i Walii +37%, natomiast w krajach Europy
+ Środkowej i Wschodniej, takich jak Polska, Czechy, Słowacja, Bułgaria,
+ Dania odnotowano odchylenia w zakresie od niewielkich spadków do wzrostu
+ +5%.
+ W USA zaobserwowano 20% wzrost ogólnej śmiertelności w porównaniu do lat
+ poprzednich, z czego szacuje się, że nie mniej niż 2/3 (13.3%) było spowodowane
+ przez wirus SARS-CoV-2.
+\end_layout
+
+\begin_layout Standard
+Według WHO-China Joint Mission on Coronavirus Disease 2019 największe ryzyko
+ śmierci i ciężkich objawów mają osoby po 60 roku życia, a także chorzy
+ na cukrzycę, nadciśnienie, raka i choroby układu oddechowego.
+ W Chinach 2,4% zachorowań dotyczy osób poniżej 19 roku życia, a śmiertelność
+ w tej grupie nie przekracza jednego promila.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+12 Dezinformacja 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+Według szeregu źródeł od stycznia 2020 ma miejsce operacja dezinformacyjna
+ wykorzystująca koronawirus SARS-CoV-2.
+ Prowadzona jest ona na internetowych platformach społecznościowych oraz
+ przez prokremlowskie media i przypomina operację dezinformacyjną z lat
+ 80.
+ XX wieku prowadzoną przez ZSRR (KGB) – Operation INFEKTION – w której m.in.
+ przedstawiano ludzki wirus niedoboru odporności (HIV) jako rzekomą „amerykańską
+ broń biologiczną”.
+\end_layout
+
+\begin_layout Standard
+3 marca 2020 potwierdzono, że „system szybkiego ostrzegania i monitorowania
+ poważnych przypadków dezinformacji” Unii Europejskiej został zastosowany
+ celem przeciwdziałania dezinformacji wykorzystującej koronawirus SARS-CoV-2,
+ chorobę COVID-19 i szerzenie się zakażeń wirusem SARS-CoV-2.
+ Wiceprzewodnicząca Komisji Europejskiej Věra Jourová poinformowała, że
+ narzędzie to zostało użyte do wymiany wiedzy między państwami członkowskimi
+ UE, a także partnerami G7 na temat dezinformacji „pochodzącej ze źródeł
+ zewnętrznych”.
+ Dzień wcześniej doszło do spotkania w którym uczestniczyli przedstawiciele
+ m.in.
+ Google, Facebook, Twitter i Microsoft, aby omówić sposoby ograniczenia
+ przepływu dezinformacji online dotyczącej koronawirusa.
+ Według oświadczenia Jourovej: „Wszyscy uczestnicy spotkania potwierdzili,
+ że wykryli różne rodzaje dezinformacji lub fake newsy w Internecie i podjęli
+ szereg działań w celu przeciwdziałania.
+ Przykłady dezinformacji obejmują fałszywe środki zaradcze, które mają rzekomo
+ na celu zaradzenie zagrożeniu i mogą stanowić zagrożenie dla zdrowia (np.
+ picie wybielacza w celu zabicia wirusa lub wkładanie octu do nozdrzy, aby
+ uniknąć zakażenia, czy także sprzedaż zanieczyszczonych substancji metalami
+ ciężkimi) lub mistyfikację na temat pochodzenia wirusa oraz sposobu i prędkości
+, z jaką się rozprzestrzenia”.
+\end_layout
+
+\begin_layout Standard
+9 marca 2020 brytyjski rząd utworzył jednostkę ds.
+ przeciwdziałania dezinformacji, z uwagi na działalność grupy państw „wykorzystu
+jących kryzys koronawirusa”.
+ Eksperci mają m.in.
+ współpracować z podmiotami prowadzącymi media społecznościowe w celu ochrony
+ Wielkiej Brytanii przed fałszywymi informacjami.
+ Brytyjska narodowa służba zdrowia (NHS) współpracuje m.in.
+ z Twitterem w celu zawieszania fałszywych kont.
+ Niektóre z tych kont np.
+ udają profile szpitali i usiłują wprowadzać niedokładne informacje na temat
+ liczby przypadków zakażenia.
+\end_layout
+
+\begin_layout Standard
+Według szefa sztabu obrony Kanady gen.
+ Jonathana Vance występują oznaki internetowych działań dezinformacyjnych
+ zmierzających do zasiania paniki z powodu COVID-19.
+ Będą również podejmowane wysiłki ze strony aktorów państwowych i niepaństwowych
+ (przestrzeni informacyjnej), aby dyskredytować kroki państw podejmowane
+ w związku z zakażeniami wirusem SARS-CoV-2.
+\end_layout
+
+\begin_layout Standard
+Kilku naukowców i ekspertów oceniło informowanie ludności jako nieodpowiednie.
+ 
+\end_layout
+
+\begin_layout Standard
+14 Przypisy
+\end_layout
+
+\begin_layout Standard
+15 Linki zewnętrzne 
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
